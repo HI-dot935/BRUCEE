@@ -1,0 +1,36 @@
+Main Components
+
+Component	                                                   Approx Price
+ESP32 Development Board  	                                     ₹315–₹850
+2.4" SPI TFT LCD Display        	                             ₹500–₹800
+PN532 NFC RFID Read / Write Module	                           ₹244–₹574
+NEO-6M GPS Module	                                             ₹279–₹314
+ 2.4GHz NRF24L01 PA LNA Wireless Module	                       ₹318–₹648
+CC1101 Wireless Transceiver Module	                           ₹265–₹339
+Micro SD Card Mini TF Reader Module    	                       ₹219
+Vishay TSOP4838 IR Receiver	                                   ₹20–₹60 locally
+KY-005 IR Transmitter Module	                                 ₹20–₹50
+TP4056 1A Li-Ion  Battery Charging Module	                     ₹116–₹159
+Type-C USB 5V 2A Step-Up Boost Converter with USB Charger      ₹50-60
+KP Original Battery 3.7V 2000mAH LiPo Battery	                 ₹300–₹400
+2-Pin Dip Switch	                                             ₹10
+Capacitors + resistors 	                                       ₹40
+perfboard	                                                     ₹100–₹300
+3D printed case	                                               ₹500–₹800
+
+
+ADDONS 	Approx Price
+
+MicroSD card (16GB/32GB)	₹300–₹600
+SMA antennas (for NRF/CC1101)	₹₹250-350
+
+Estimated Total 💸
+Budget Build
+
+Using cheaper/local modules:
+~₹3500–₹4000
+
+Cleaner / Better Quality Build
+
+Using branded modules nice quality components + antennas + SD card:
+~₹4500–₹5500
